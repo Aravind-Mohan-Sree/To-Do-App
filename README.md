@@ -65,4 +65,14 @@ Open your browser and navigate to `http://localhost:PORT`.<br><br>
 This project is free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the project.
 Just make sure to give appropriate credit.
 
+## 🙌 Acknowledgements
+
+Thanks to:
+
+React
+
+Vite
+
+Sonner
+
 # Get things done now!
