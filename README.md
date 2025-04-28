@@ -1,12 +1,68 @@
-<<<<<<< HEAD
-# To-Do-App
-=======
-# React + Vite
+# 📝 TO-DO-APP
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## A simple and clean To-Do Application built with React 19, using Vite as bundler. This project also uses Sonner for enhanced UI feedback.
 
-Currently, two official plugins are available:
+## 🚀 Features<br>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> 00f5c9f (Initial commit)
+Add, edit, and delete tasks
+
+Smooth UI notifications
+
+Modern React (v19) and fast Vite bundler
+
+Code linting with ESLint<br><br>
+  
+## 🛠️ Tech Stack
+
+React 19
+
+Vite 6
+
+Sonner (for sleek toasts)
+
+ESLint (for maintaining code quality)<br><br>
+
+## 🛠️ Getting Started
+
+### Prerequisites
+
+Before running this project locally, ensure you have the following installed:
+
+`git`
+
+## 📦 Installation
+
+### Clone the Repository
+
+```
+git clone https://github.com/Aravind-Mohan-Sree/To-Do-App.git
+```
+
+### Navigate to the Project Directory
+
+```
+cd To-Do-App
+```
+
+### Install Dependencies
+
+```
+npm install
+```
+
+### Start the App
+
+```
+npm run dev
+```
+
+### Access the Application
+
+Open your browser and navigate to `http://localhost:PORT`.<br><br>
+
+## 📄 License
+
+This project is free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the project.
+Just make sure to give appropriate credit.
+
+# Get things done now!
