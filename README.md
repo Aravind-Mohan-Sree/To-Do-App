@@ -30,6 +30,8 @@ Before running this project locally, ensure you have the following installed:
 
 `git`
 
+`Node.js`
+
 ## 📦 Installation
 
 ### Clone the Repository
